@@ -7,7 +7,16 @@
 img {
   max-width: 100%;
 }
-
+.nav__list-link1{
+  color: white;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    opacity: 0.8700000047683716;
+    margin-bottom: 20px;
+}
 .text {
     color: var(--dark-blue, #282938);
     font-family: Poppins;
